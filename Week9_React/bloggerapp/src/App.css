@@ -1,0 +1,22 @@
+.main-container {
+  display: flex;
+  justify-content: space-around;
+  padding: 40px;
+  font-family: Arial, sans-serif;
+}
+
+.mystyle1, .st2, .v1 {
+  flex: 1;
+  padding: 0 20px;
+}
+
+.divider {
+  width: 3px;
+  background-color: green;
+  height: 400px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
